@@ -600,6 +600,15 @@ progress {
   content: "— ";
 }
 
+#clock { 
+  width: 300px;
+  height: 400px;
+  object-position: bottom 10px right 0px;
+  /*object-fit: none;
+  object-position: center top;*/
+  /* String value */
+  }
+
 .img-fluid {
   max-width: 100%;
   height: auto;
